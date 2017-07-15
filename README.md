@@ -2,7 +2,7 @@
 2972.ir SMS service Node.js API library
 
 # Usage
-Install from npm
+Install from [npm](https://www.npmjs.com/package/2972.ir)
 ```sh
 npm install 2972.ir
 ```
