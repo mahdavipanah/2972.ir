@@ -1,6 +1,6 @@
 {
   "name": "2972.ir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "2972.ir SMS service Node.js API library",
   "main": "index.js",
   "scripts": {
