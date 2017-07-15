@@ -1,0 +1,28 @@
+{
+  "name": "2972.ir",
+  "version": "1.0.0",
+  "description": "2972.ir SMS service Node.js API library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdavipanah/2972.ir.git"
+  },
+  "keywords": [
+    "sms",
+    "sms-service",
+    "api",
+    "sms-api"
+  ],
+  "author": "Hamidreza Mahdavipanah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahdavipanah/2972.ir/issues"
+  },
+  "homepage": "https://github.com/mahdavipanah/2972.ir#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
