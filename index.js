@@ -64,7 +64,10 @@ module.exports = function (options, callback) {
         },
         function (err, httpResponse, body) {
             if (typeof callback === 'function')
-                callback(parseInt(body), httpResponse);
+                if (err)
+                    callback(err, httpResponse);
+                else
+                    callback(parseInt(body), httpResponse);
         }
     );
 };
